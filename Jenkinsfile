@@ -16,6 +16,5 @@ pipeline {
         stage ('Monitor') { 
  
         }
- 
     }           
  }
