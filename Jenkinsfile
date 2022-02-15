@@ -13,8 +13,5 @@ pipeline {
         stage ('Deploy') { 
         
         }
-        stage ('Monitor') { 
- 
-        }
     }           
  }
